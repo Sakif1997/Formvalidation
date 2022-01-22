@@ -1,0 +1,84 @@
+h1{
+	text-align: left;
+	text-decoration: bold;
+	color:#005c99;
+}
+h2{
+	text-align: left;
+	text-decoration: bold;
+	color:#005c99;
+}
+h3{
+	text-align: left;
+	text-decoration: bold;
+	color:#005c99;
+}
+h4{
+	text-align: left;
+	text-decoration: bold;
+	color:#005c99;
+}
+form{
+	max-width: 800px;
+	margin: auto;
+}
+input[type=text]{
+	width:50vw;
+	padding: 15px;
+	margin: 5px 0 22px 0;
+	display: inline-block;
+	border: none;
+	background: #f1f1f1;
+}
+input[type=password]{
+	width:50vw;
+	padding: 15px;
+	margin: 5px 0 22px 0;
+	display: inline-block;
+	border: none;
+	background: #f1f1f1;
+}
+input[type=email]{
+	width:50vw;
+	padding: 15px;
+	margin: 5px 0 22px 0;
+	display: inline-block;
+	border: none;
+	background: #f1f1f1;
+}
+input[type=contact]{
+	width:50vw;
+	padding: 15px;
+	margin: 5px 0 22px 0;
+	display: inline-block;
+	border: none;
+	background: #f1f1f1;
+}
+/*for text field*/
+input[type=text]:focus{
+	background-color: #ddd;
+	outline: none;
+}
+input[type=password]:focus{
+	background-color: #ddd;
+	outline: none;
+}
+input[type=email]:focus{
+	background-color: #ddd;
+	outline: none;
+}
+input[type=contact]:focus{
+	background-color: #ddd;
+	outline: none;
+}
+button{
+	width:50% 50%;
+	padding: 20px;
+	margin: 5px 0 22px 0;
+	display: inline-block;
+	border: none;
+	background: #f1f1f1;
+}
+
+}
+
